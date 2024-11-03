@@ -1,4 +1,3 @@
 # Jupyter-ipynb
 
-##Author
-####Aditya Maitreya
+Author- Aditya Maitreya
